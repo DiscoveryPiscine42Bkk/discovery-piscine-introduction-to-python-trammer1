@@ -1,3 +1,4 @@
-age = int(input())
-my_age = (age ++ 42)
+age = 18
+forty_two = 42
+my_age = age + forty_two
 print(my_age)
