@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 num = 0
 while num <= 10:
     print(f"Table de {num}:", end=" ")
