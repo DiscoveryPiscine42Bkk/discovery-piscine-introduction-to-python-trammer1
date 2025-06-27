@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 new_list = []
 if len(sys.argv) <3 :
